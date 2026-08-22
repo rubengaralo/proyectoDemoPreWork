@@ -97,13 +97,39 @@ la reunión. Lunes 11 AM le gana a viernes por sus criterios y los nuestros:
   all-hands sobre un día ya cargado de reuniones es exactamente la ceguera de
   contexto contra la que advierte el framework.
 
+## Asistentes
+
+Personal local de TSF contratado bajo FES (Fundación El Samaritano) y DAYE
+(Fundación Dando Amor y Esperanza). La mayoría del equipo de campo no usa correo
+electrónico: la invitación de calendario va solo a quienes lo usan, y el resto se
+convoca **por WhatsApp** (responsabilidad del facilitador cada semana).
+
+| Nombre | Entidad | Rol | Convocatoria |
+|--------|---------|-----|--------------|
+| Rubén García | — | Executive Director — facilitador | Organizador |
+| Keiry Alonzo | DAYE | Finanzas, contabilidad y cumplimiento legal/administrativo | Invitación de calendario |
+| Darlenny Peña | DAYE | Oficina, operaciones y logística | Invitación de calendario |
+| Alexandro (Alex) Cooper | DAYE | Nómina, pagos, QuickBooks y fondos por desembolsar | WhatsApp |
+| Jesús Cooper | DAYE | Taller de madera y mantenimiento de vehículos | WhatsApp |
+| Ruth Medina Sosa | FES | Recepción, contabilidad básica y documentación comunitaria | WhatsApp |
+| Ramón Santana | FES | Operaciones diarias y logística de construcción | WhatsApp |
+| Ramón Mateo | FES | Supervisión de las comunidades | WhatsApp |
+| José Elías ("Chapulín") | FES | Apoyo a Ramón Mateo y distribución de agua | WhatsApp |
+| Agustín Abreu | FES | Taller de madera, equipos y programa agrícola | WhatsApp |
+| Arismendy Medina | FES | Presidente de FES — representa la organización | WhatsApp |
+
+Nota de diseño: con 11 personas este all-hands excede la regla de las dos pizzas —
+aceptable porque es deliberadamente un *all*-hands. La contramedida es el study hall
+(quien no aporta a los issues elegidos puede salir después de dejar sus notas) y
+revisar a las 4 semanas si algún rol se sirve mejor solo con el pre-read.
+
 ## Roles
 
 | Rol | Responsabilidad |
 |-----|-----------------|
-| Facilitador | Controla el tiempo, exige issues en verbo+sustantivo, rompe el bike-shedding |
+| Facilitador | Controla el tiempo, exige issues en verbo+sustantivo, rompe el bike-shedding, convoca por WhatsApp al equipo sin correo |
 | Scribe | Mantiene el pre-read: scorecard, Issues List, To-Do List y registro de calificaciones |
-| Todos | Aportes al pre-read antes del lunes 10:00 AM — tema sin escrito no entra |
+| Todos | Aportes al pre-read antes del lunes 10:00 AM — tema sin escrito no entra (el scribe captura los aportes de quienes no usan correo/computadora) |
 
 ---
 
