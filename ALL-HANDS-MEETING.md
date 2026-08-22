@@ -132,33 +132,77 @@ revisar a las 4 semanas si algún rol se sirve mejor solo con el pre-read.
 
 ---
 
-## Pre-read — semana del 24 de agosto de 2026
+## Pre-read — semana del 24 de agosto de 2026 (primera reunión)
 
 > Plantilla viva. El scribe duplica esta sección cada semana y archiva la anterior.
 > Fecha límite de aportes: lunes 10:00 AM.
 
 ### Scorecard
-| Métrica | Dueño | Meta | Esta semana | On/Off track |
-|---------|-------|------|-------------|--------------|
-| _(agregar 5–15 métricas semanales)_ | | | | |
+Primera reunión: el scorecard aún no existe — definirlo es un issue del IDS de hoy.
+Métricas propuestas como punto de partida (dueños por confirmar):
+
+| Métrica propuesta | Dueño propuesto | Cadencia |
+|-------------------|-----------------|----------|
+| Donaciones recibidas en la semana (USD/DOP) | Keiry | Semanal |
+| Gastos vs presupuesto (DAYE y FES) | Alex Cooper | Semanal |
+| Reporte fotográfico de obra CCFK recibido (sí/no) | Rubén | Semanal |
+| Familias / comidas atendidas por ministerios | Darlenny | Semanal |
+| Entregas del taller de madera (puertas, ventanas, pedidos) | Ramón Santana | Semanal |
+| Incidencias abiertas en las comunidades | Ramón Mateo | Semanal |
+| Aportes al pre-read a tiempo (de 10) | Scribe | Semanal |
 
 ### Rocks (trimestre)
-| Rock | Dueño | On/Off track |
-|------|-------|--------------|
-| _(agregar prioridades del trimestre)_ | | |
+Por definir formalmente. Candidatos evidentes del trimestre en curso:
+
+| Rock candidato | Dueño | Estado |
+|----------------|-------|--------|
+| Obra CCFK Fase 2 arrancada y con rutina de supervisión semanal | Rubén | On track (inicio hoy 24-ago) |
+| Proceso PTAR adjudicado y en ejecución | Rubén | On track (adjudicación miércoles 26-ago) |
+| Plan de cobertura Canadá (25-sep – 20-oct) cerrado antes del viaje | Rubén / Keiry | Off track (aún sin acordar) |
 
 ### To-dos de la semana pasada
-| To-do | Dueño | Done / Not done |
-|-------|-------|-----------------|
-| _(primera semana: vacío)_ | | |
+Primera reunión: no hay to-dos de reunión previa. En vuelo desde antes:
+
+| To-do en vuelo | Dueño | Estado |
+|----------------|-------|--------|
+| WhatsApp a Lenny y Francis: cotizaciones PTAR cierran hoy 3 PM | Rubén | Hoy 7:30 AM |
+| Confirmar con Yendri (SYA) el arranque de obra y con el supervisor el reporte fotográfico | Rubén | Hoy |
+| Conseguir copia del contrato firmado de Ruth (C81) | Rubén | Pendiente |
+| Cuadrar hora con Pastor David Bierd para hablar de la cobertura de Canadá | Rubén | Llamada mañana martes |
 
 ### Headlines
-- _(noticias cortas de donantes / comunidades / equipo, por escrito)_
+- 🏗️ La obra CCFK Fase 2 arranca HOY — el primer picazo con autoridades fue el
+  miércoles 20-ago. Plazo: aulas 30-jun-2027, terminación 12-jul-2027.
+- 💰 Recibidos los estados financieros de julio de DAYE (contadora Nicki Katz).
+- ✅ Documentos de DAYE actualizados y confirmados en el SIGASFL (MIVED).
+- 🎥 Rylan dejó listo el video para iglesias canadienses; está de vacaciones esta
+  semana (no esperar respuestas suyas).
+- 📁 Darlenny solicitó acceso a la carpeta "Photos & Videos" de Drive.
 
 ### Issues List (verbo + sustantivo, ordenados por importancia)
-1. _(ej.: "Decidir …", "Alinear …", "Resolver …")_
+1. **Alinear la evaluación y adjudicación de la PTAR** — cotizaciones cierran hoy
+   3 PM (Lenny: pozo filtrante; Francis: supervisión); adjudicación miércoles 26.
+   ¿Criterios? ¿Quién evalúa? *(complejo + one-way door)*
+2. **Alinear la cobertura del viaje a Canadá (25-sep – 20-oct)** — qué decide
+   Pastor David como presidente de la junta local, quién lleva la operación diaria
+   con Rubén y Keiry fuera y la obra recién arrancada. *(complejo + emocional)*
+3. **Definir la rutina de supervisión de la obra CCFK Fase 2** — reporte
+   fotográfico semanal, quién lo recibe y revisa, qué pasa si no llega.
+4. **Definir el scorecard del equipo** — validar las métricas propuestas arriba y
+   asignar dueños (5–15 métricas).
+5. **Resolver el contrato firmado pendiente de Ruth (C81)** — probablemente sale
+   como to-do directo sin discusión.
 
 ### Calificaciones (cierre)
 | Persona | Nota (1–10) |
 |---------|-------------|
-| | |
+| Rubén | |
+| Keiry | |
+| Darlenny | |
+| Alex | |
+| Jesús | |
+| Ruth | |
+| Ramón S. | |
+| Ramón M. | |
+| José Elías | |
+| Agustín | |
