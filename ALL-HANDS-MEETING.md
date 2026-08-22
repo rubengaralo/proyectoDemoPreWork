@@ -116,9 +116,8 @@ convoca **por WhatsApp** (responsabilidad del facilitador cada semana).
 | Ramón Mateo | FES | Supervisión de las comunidades | WhatsApp |
 | José Elías ("Chapulín") | FES | Apoyo a Ramón Mateo y distribución de agua | WhatsApp |
 | Agustín Abreu | FES | Taller de madera, equipos y programa agrícola | WhatsApp |
-| Arismendy Medina | FES | Presidente de FES — representa la organización | WhatsApp |
 
-Nota de diseño: con 11 personas este all-hands excede la regla de las dos pizzas —
+Nota de diseño: con 10 personas este all-hands excede la regla de las dos pizzas —
 aceptable porque es deliberadamente un *all*-hands. La contramedida es el study hall
 (quien no aporta a los issues elegidos puede salir después de dejar sus notas) y
 revisar a las 4 semanas si algún rol se sirve mejor solo con el pre-read.
